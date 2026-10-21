@@ -12,6 +12,13 @@ for (const hotel of hotels) {
 
   let html = template;
 
+  // Per-hotel accent color — inject CSS variables before the first <style> or in <head>
+  const accentColor = hotel.accentColor || '#b3232a';
+  const accentColor600 = hotel.accentColor600 || '#971d24';
+  const accentColorSoft = hotel.accentColorSoft || '#f8e6e4';
+  const cssOverride = `<style>:root{--brand:${accentColor};--brand-600:${accentColor600};--brand-soft:${accentColorSoft}}</style>`;
+  html = html.replace('</head>', `${cssOverride}\n</head>`);
+
   // Replace placeholders
   html = html.replace(/\{\{NAME\}\}/g, hotel.name);
   html = html.replace(/\{\{ADDRESS\}\}/g, hotel.address);
@@ -19,6 +26,8 @@ for (const hotel of hotels) {
   html = html.replace(/\{\{PRICE_RANGE\}\}/g, hotel.price_range);
   html = html.replace(/\{\{YANDEX_MAPS_LINK\}\}/g, hotel.yandex_maps_link);
   html = html.replace(/\{\{YANDEX_MAPS_OID\}\}/g, hotel.yandex_maps_oid);
+  html = html.replace(/\{\{TAGLINE\}\}/g, hotel.tagline || '');
+  html = html.replace(/\{\{ACCENT_COLOR\}\}/g, accentColor);
 
   // Phone handling — if no phone, show placeholder
   if (hotel.phone) {

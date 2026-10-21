@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#733b10;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <line x1="0" y1="0" x2="1200" y2="800" stroke="rgba(255,255,255,0.03)" stroke-width="200"/>
+  <text x="600" y="420" font-family="sans-serif" font-size="48" fill="rgba(255,255,255,0.25)" text-anchor="middle">Территория</text>
+</svg>

@@ -435,6 +435,14 @@ ul { list-style: none; padding: 0; }
 }
 .hero__title .accent { color: #ffcf8a; }
 
+.hero__tagline {
+  font-family: var(--font-display);
+  font-size: clamp(.85rem, .8rem + .25vw, 1.05rem);
+  color: rgba(255,255,255,.7);
+  margin-bottom: 12px;
+  letter-spacing: .02em;
+}
+
 .hero__lead {
   font-size: clamp(1rem, .95rem + .3vw, 1.14rem);
   color: rgba(255,255,255,.82);

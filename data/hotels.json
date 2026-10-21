@@ -9,11 +9,36 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Мини-отель в Ейске с удобным расположением на ул. Рабочей.",
+    "accentColor": "#2b6e5f",
+    "accentColor600": "#235a4e",
+    "accentColorSoft": "#e6f5f1",
+    "tagline": "Уют на Рабочей — ваш дом в Ейске",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник"
+    ],
+    "description": "Мини-отель на Рабочей улице — тихий и уютный уголок в Ейске. Удобное расположение с парковкой и всеми необходимыми удобствами для комфортного отдыха.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-mini-rabochaya-1.svg",
+        "hero-mini-rabochaya-2.svg",
+        "hero-mini-rabochaya-3.svg"
+      ],
+      "gallery": [
+        "gallery-mini-rabochaya-1.svg",
+        "gallery-mini-rabochaya-2.svg",
+        "gallery-mini-rabochaya-3.svg",
+        "gallery-mini-rabochaya-4.svg",
+        "gallery-mini-rabochaya-5.svg",
+        "gallery-mini-rabochaya-6.svg",
+        "gallery-mini-rabochaya-7.svg",
+        "gallery-mini-rabochaya-8.svg",
+        "gallery-mini-rabochaya-9.svg",
+        "gallery-mini-rabochaya-10.svg"
+      ]
     }
   },
   {
@@ -26,11 +51,36 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Мини-отель Дакота в Ейске на Октябрьской улице.",
+    "accentColor": "#7b3a6b",
+    "accentColor600": "#6a3159",
+    "accentColorSoft": "#f5e6f1",
+    "tagline": "Стильный отдых на Октябрьской",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Кухня",
+      "Стиральная машина"
+    ],
+    "description": "Мини-отель Дакота на Октябрьской — современный номер с кухней для тех, кто ценит самостоятельность. Идеально для семейного отдыха и длительных поездок.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-dakota-1.svg",
+        "hero-dakota-2.svg",
+        "hero-dakota-3.svg"
+      ],
+      "gallery": [
+        "gallery-dakota-1.svg",
+        "gallery-dakota-2.svg",
+        "gallery-dakota-3.svg",
+        "gallery-dakota-4.svg",
+        "gallery-dakota-5.svg",
+        "gallery-dakota-6.svg",
+        "gallery-dakota-7.svg",
+        "gallery-dakota-8.svg",
+        "gallery-dakota-9.svg",
+        "gallery-dakota-10.svg"
+      ]
     }
   },
   {
@@ -43,11 +93,36 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Ассоль в Ейске на ул. Шмидта.",
+    "accentColor": "#c25d28",
+    "accentColor600": "#a84e21",
+    "accentColorSoft": "#fdeee4",
+    "tagline": "Ваш компас к морю — на ул. Шмидта",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Завтрак",
+      "Детская кроватка"
+    ],
+    "description": "Гостевой дом Ассоль на Шмидта — тёплый приём и домашний уют. Завтрак включён, детская кроватка доступна. Идеальный выбор для семей с детьми.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-assol-1.svg",
+        "hero-assol-2.svg",
+        "hero-assol-3.svg"
+      ],
+      "gallery": [
+        "gallery-assol-1.svg",
+        "gallery-assol-2.svg",
+        "gallery-assol-3.svg",
+        "gallery-assol-4.svg",
+        "gallery-assol-5.svg",
+        "gallery-assol-6.svg",
+        "gallery-assol-7.svg",
+        "gallery-assol-8.svg",
+        "gallery-assol-9.svg",
+        "gallery-assol-10.svg"
+      ]
     }
   },
   {
@@ -60,11 +135,36 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Мини-отель Приазовочка в Ейске на Пляжной улице, близко к морю.",
+    "accentColor": "#1a7a8a",
+    "accentColor600": "#156875",
+    "accentColorSoft": "#e4f4f6",
+    "tagline": "Шаг от пляжа — на Пляжной улице",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Доступ к пляжу",
+      "Шезлонги"
+    ],
+    "description": "Мини-отель Приазовочка на Пляжной — ваш прямой путь к Азовскому морю. Выйдите из двери и через минуту вы на песчаном берегу. Шезлонги и зонты в наличии.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-priazovochka-1.svg",
+        "hero-priazovochka-2.svg",
+        "hero-priazovochka-3.svg"
+      ],
+      "gallery": [
+        "gallery-priazovochka-1.svg",
+        "gallery-priazovochka-2.svg",
+        "gallery-priazovochka-3.svg",
+        "gallery-priazovochka-4.svg",
+        "gallery-priazovochka-5.svg",
+        "gallery-priazovochka-6.svg",
+        "gallery-priazovochka-7.svg",
+        "gallery-priazovochka-8.svg",
+        "gallery-priazovochka-9.svg",
+        "gallery-priazovochka-10.svg"
+      ]
     }
   },
   {
@@ -77,11 +177,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Мини-гостиница Селина в центре Ейска на Центральной улице.",
+    "accentColor": "#b8860b",
+    "accentColor600": "#9a7209",
+    "accentColorSoft": "#fdf6e3",
+    "tagline": "В центре Ейска — всё рядом",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник",
+      "Железо"
+    ],
+    "description": "Мини-гостиница Селина в самом центре Ейска. Кафе, магазины и набережная — в шаговой доступности. Комфортабельные номера для деловых и туристических поездок.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-selina-1.svg",
+        "hero-selina-2.svg",
+        "hero-selina-3.svg"
+      ],
+      "gallery": [
+        "gallery-selina-1.svg",
+        "gallery-selina-2.svg",
+        "gallery-selina-3.svg",
+        "gallery-selina-4.svg",
+        "gallery-selina-5.svg",
+        "gallery-selina-6.svg",
+        "gallery-selina-7.svg",
+        "gallery-selina-8.svg",
+        "gallery-selina-9.svg",
+        "gallery-selina-10.svg"
+      ]
     }
   },
   {
@@ -94,11 +220,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Мини-отель Вап в Ейске на ул. Кропоткина.",
+    "accentColor": "#4a3f6b",
+    "accentColor600": "#3d3457",
+    "accentColorSoft": "#ede8f5",
+    "tagline": "Современный комфорт на Кропоткина",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Стиральная машина",
+      "Микроволновка"
+    ],
+    "description": "Мини-отель Вап на Кропоткина — современный номер со всеми удобствами. Стиральная машина, микроволновка и телевизор — всё для длительного комфортного проживания.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-vap-1.svg",
+        "hero-vap-2.svg",
+        "hero-vap-3.svg"
+      ],
+      "gallery": [
+        "gallery-vap-1.svg",
+        "gallery-vap-2.svg",
+        "gallery-vap-3.svg",
+        "gallery-vap-4.svg",
+        "gallery-vap-5.svg",
+        "gallery-vap-6.svg",
+        "gallery-vap-7.svg",
+        "gallery-vap-8.svg",
+        "gallery-vap-9.svg",
+        "gallery-vap-10.svg"
+      ]
     }
   },
   {
@@ -111,11 +263,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом на Морской улице в Ейске, близко к пляжу.",
+    "accentColor": "#1e6b8a",
+    "accentColor600": "#1a5a75",
+    "accentColorSoft": "#e3f2f8",
+    "tagline": "Морской бриз у вашего окна",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Балкон",
+      "Холодильник",
+      "Доступ к пляжу"
+    ],
+    "description": "Гостевой дом Морская 250 — на Морской улице, в нескольких минутах от Азовского моря. Балкон с видом, кондиционер и всё для морского отдыха.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-morskaya-250-1.svg",
+        "hero-morskaya-250-2.svg",
+        "hero-morskaya-250-3.svg"
+      ],
+      "gallery": [
+        "gallery-morskaya-250-1.svg",
+        "gallery-morskaya-250-2.svg",
+        "gallery-morskaya-250-3.svg",
+        "gallery-morskaya-250-4.svg",
+        "gallery-morskaya-250-5.svg",
+        "gallery-morskaya-250-6.svg",
+        "gallery-morskaya-250-7.svg",
+        "gallery-morskaya-250-8.svg",
+        "gallery-morskaya-250-9.svg",
+        "gallery-morskaya-250-10.svg"
+      ]
     }
   },
   {
@@ -128,11 +306,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Мини-отель Александрия в Ейске на ул. Калинина.",
+    "accentColor": "#8b4513",
+    "accentColor600": "#733b10",
+    "accentColorSoft": "#f5ece3",
+    "tagline": "Классический комфорт на Калинина",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник",
+      "Кухня"
+    ],
+    "description": "Мини-отель Александрия на Калинина — классический гостевой дом с кухней и телевизором. Тихий район, удобная парковка, всё для спокойного отдыха.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-alexandriya-1.svg",
+        "hero-alexandriya-2.svg",
+        "hero-alexandriya-3.svg"
+      ],
+      "gallery": [
+        "gallery-alexandriya-1.svg",
+        "gallery-alexandriya-2.svg",
+        "gallery-alexandriya-3.svg",
+        "gallery-alexandriya-4.svg",
+        "gallery-alexandriya-5.svg",
+        "gallery-alexandriya-6.svg",
+        "gallery-alexandriya-7.svg",
+        "gallery-alexandriya-8.svg",
+        "gallery-alexandriya-9.svg",
+        "gallery-alexandriya-10.svg"
+      ]
     }
   },
   {
@@ -145,11 +349,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Лилия в Ейске на ул. Шмидта.",
+    "accentColor": "#c7508a",
+    "accentColor600": "#a84373",
+    "accentColorSoft": "#fde8f0",
+    "tagline": "Цветущий уют на Шмидта",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Завтрак",
+      "Сад",
+      "Детская площадка"
+    ],
+    "description": "Гостевой дом Лилия на Шмидта — цветущий сад, детский уголок и домашний завтрак. Идеальное место для семейного отдыха с детьми в Ейске.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-liliya-1.svg",
+        "hero-liliya-2.svg",
+        "hero-liliya-3.svg"
+      ],
+      "gallery": [
+        "gallery-liliya-1.svg",
+        "gallery-liliya-2.svg",
+        "gallery-liliya-3.svg",
+        "gallery-liliya-4.svg",
+        "gallery-liliya-5.svg",
+        "gallery-liliya-6.svg",
+        "gallery-liliya-7.svg",
+        "gallery-liliya-8.svg",
+        "gallery-liliya-9.svg",
+        "gallery-liliya-10.svg"
+      ]
     }
   },
   {
@@ -162,11 +392,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Мореон в Ейске на ул. Калинина.",
+    "accentColor": "#2e7d6f",
+    "accentColor600": "#266a5e",
+    "accentColorSoft": "#e6f4f1",
+    "tagline": "Море начинается здесь",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Холодильник",
+      "Телевизор",
+      "Балкон"
+    ],
+    "description": "Гостевой дом Мореон на Калинина — название говорит само за себя. Балкон, кондиционер и всё необходимое для отдыха у моря в комфортных условиях.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-moreon-1.svg",
+        "hero-moreon-2.svg",
+        "hero-moreon-3.svg"
+      ],
+      "gallery": [
+        "gallery-moreon-1.svg",
+        "gallery-moreon-2.svg",
+        "gallery-moreon-3.svg",
+        "gallery-moreon-4.svg",
+        "gallery-moreon-5.svg",
+        "gallery-moreon-6.svg",
+        "gallery-moreon-7.svg",
+        "gallery-moreon-8.svg",
+        "gallery-moreon-9.svg",
+        "gallery-moreon-10.svg"
+      ]
     }
   },
   {
@@ -179,11 +435,38 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Ейск VIP Плаза в центре Ейска на ул. Шмидта.",
+    "accentColor": "#6b4c9a",
+    "accentColor600": "#5a4082",
+    "accentColorSoft": "#f0e8f7",
+    "tagline": "Премиальный отдых в центре Ейска",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник",
+      "Минибар",
+      "Сейф"
+    ],
+    "description": "Ейск VIP Плаза на Шмидта — премиальный гостевой дом в центре города. Минибар, сейф и стильный интерьер. Для тех, кто выбирает лучшее.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-eysk-vip-plaza-1.svg",
+        "hero-eysk-vip-plaza-2.svg",
+        "hero-eysk-vip-plaza-3.svg"
+      ],
+      "gallery": [
+        "gallery-eysk-vip-plaza-1.svg",
+        "gallery-eysk-vip-plaza-2.svg",
+        "gallery-eysk-vip-plaza-3.svg",
+        "gallery-eysk-vip-plaza-4.svg",
+        "gallery-eysk-vip-plaza-5.svg",
+        "gallery-eysk-vip-plaza-6.svg",
+        "gallery-eysk-vip-plaza-7.svg",
+        "gallery-eysk-vip-plaza-8.svg",
+        "gallery-eysk-vip-plaza-9.svg",
+        "gallery-eysk-vip-plaza-10.svg"
+      ]
     }
   },
   {
@@ -196,11 +479,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Бристоль в Ейске на ул. Мира.",
+    "accentColor": "#1a4d6e",
+    "accentColor600": "#15405a",
+    "accentColorSoft": "#e3edf4",
+    "tagline": "Элегантность на улице Мира",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник",
+      "Завтрак"
+    ],
+    "description": "Гостевой дом Бристоль на Мира — элегантный номер с завтраком. Уютная атмосфера, чистота и порядок. Тихая улица в удобном районе Ейска.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-bristol-1.svg",
+        "hero-bristol-2.svg",
+        "hero-bristol-3.svg"
+      ],
+      "gallery": [
+        "gallery-bristol-1.svg",
+        "gallery-bristol-2.svg",
+        "gallery-bristol-3.svg",
+        "gallery-bristol-4.svg",
+        "gallery-bristol-5.svg",
+        "gallery-bristol-6.svg",
+        "gallery-bristol-7.svg",
+        "gallery-bristol-8.svg",
+        "gallery-bristol-9.svg",
+        "gallery-bristol-10.svg"
+      ]
     }
   },
   {
@@ -213,11 +522,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Гавань в Ейске на Лиманской улице.",
+    "accentColor": "#5c4033",
+    "accentColor600": "#4a3428",
+    "accentColorSoft": "#f2e8e3",
+    "tagline": "Тихая гавань на Лиманской",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Кухня",
+      "Стиральная машина",
+      "Двор"
+    ],
+    "description": "Гостевой дом Гавань на Лиманской — тихий портовый район Ейска. Кухня, стиральная машина и собственный двор. Идеально для тех, кто ищет спокойствие.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-gavan-1.svg",
+        "hero-gavan-2.svg",
+        "hero-gavan-3.svg"
+      ],
+      "gallery": [
+        "gallery-gavan-1.svg",
+        "gallery-gavan-2.svg",
+        "gallery-gavan-3.svg",
+        "gallery-gavan-4.svg",
+        "gallery-gavan-5.svg",
+        "gallery-gavan-6.svg",
+        "gallery-gavan-7.svg",
+        "gallery-gavan-8.svg",
+        "gallery-gavan-9.svg",
+        "gallery-gavan-10.svg"
+      ]
     }
   },
   {
@@ -230,11 +565,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Христина в Ейске на ул. Калинина.",
+    "accentColor": "#d4622b",
+    "accentColor600": "#b85422",
+    "accentColorSoft": "#fdece4",
+    "tagline": "Тёплый приём на Калинина",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник",
+      "Детская кроватка"
+    ],
+    "description": "Гостевой дом Христина на Калинина — тёплый приём и домашняя атмосфера. Детская кроватка, телевизор и холодильник. Комфорт для всей семьи.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-khristina-1.svg",
+        "hero-khristina-2.svg",
+        "hero-khristina-3.svg"
+      ],
+      "gallery": [
+        "gallery-khristina-1.svg",
+        "gallery-khristina-2.svg",
+        "gallery-khristina-3.svg",
+        "gallery-khristina-4.svg",
+        "gallery-khristina-5.svg",
+        "gallery-khristina-6.svg",
+        "gallery-khristina-7.svg",
+        "gallery-khristina-8.svg",
+        "gallery-khristina-9.svg",
+        "gallery-khristina-10.svg"
+      ]
     }
   },
   {
@@ -247,11 +608,37 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Марина в Ейске на Красной улице.",
+    "accentColor": "#3a7d6e",
+    "accentColor600": "#316a5c",
+    "accentColorSoft": "#e5f3ef",
+    "tagline": "Морской уют на Красной улице",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Балкон",
+      "Холодильник",
+      "Шезлонги"
+    ],
+    "description": "Гостевой дом Марина на Красной — морской бриз и уютный балкон. Шезлонги для отдыха, кондиционер и парковка. Всё для морского отпуска.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-marina-1.svg",
+        "hero-marina-2.svg",
+        "hero-marina-3.svg"
+      ],
+      "gallery": [
+        "gallery-marina-1.svg",
+        "gallery-marina-2.svg",
+        "gallery-marina-3.svg",
+        "gallery-marina-4.svg",
+        "gallery-marina-5.svg",
+        "gallery-marina-6.svg",
+        "gallery-marina-7.svg",
+        "gallery-marina-8.svg",
+        "gallery-marina-9.svg",
+        "gallery-marina-10.svg"
+      ]
     }
   },
   {
@@ -264,11 +651,38 @@
     "rating": null,
     "review_count": null,
     "price_range": "Цены уточняйте по телефону",
-    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
-    "description": "Гостевой дом Галина в Ейске на Морской улице, близко к пляжу.",
+    "accentColor": "#9b59b6",
+    "accentColor600": "#8a4da7",
+    "accentColorSoft": "#f4e8f8",
+    "tagline": "Дом у моря на Морской",
+    "amenities": [
+      "Wi-Fi",
+      "Парковка",
+      "Кондиционер",
+      "Телевизор",
+      "Холодильник",
+      "Доступ к пляжу",
+      "Зонты"
+    ],
+    "description": "Гостевой дом Галина на Морской 119 — близко к пляжу, далеко от суеты. Зонты и доступ к морю, телевизор и холодильник. Отдых, который вы заслужили.",
     "photos": {
-      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
-      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+      "hero": [
+        "hero-galina-1.svg",
+        "hero-galina-2.svg",
+        "hero-galina-3.svg"
+      ],
+      "gallery": [
+        "gallery-galina-1.svg",
+        "gallery-galina-2.svg",
+        "gallery-galina-3.svg",
+        "gallery-galina-4.svg",
+        "gallery-galina-5.svg",
+        "gallery-galina-6.svg",
+        "gallery-galina-7.svg",
+        "gallery-galina-8.svg",
+        "gallery-galina-9.svg",
+        "gallery-galina-10.svg"
+      ]
     }
   }
 ]
