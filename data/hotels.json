@@ -1,0 +1,274 @@
+[
+  {
+    "id": "mini-rabochaya",
+    "name": "Мини отель на Рабочей",
+    "address": "Ейск, Рабочая ул., 91",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/dom_u_morya/230711877090/",
+    "yandex_maps_oid": "230711877090",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Мини-отель в Ейске с удобным расположением на ул. Рабочей.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "dakota",
+    "name": "Дакота",
+    "address": "Ейск, Октябрьская ул., 112",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/dakota/33904044777/",
+    "yandex_maps_oid": "33904044777",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Мини-отель Дакота в Ейске на Октябрьской улице.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "assol",
+    "name": "Ассоль",
+    "address": "ул. Шмидта, 20, Ейск",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/assol/1318349775/",
+    "yandex_maps_oid": "1318349775",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Ассоль в Ейске на ул. Шмидта.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "priazovochka",
+    "name": "Приазовочка",
+    "address": "Ейск, Пляжная ул., 2/4",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/priazovochka/1256969016/",
+    "yandex_maps_oid": "1256969016",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Мини-отель Приазовочка в Ейске на Пляжной улице, близко к морю.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "selina",
+    "name": "Мини-гостиница Селина",
+    "address": "Ейск, Центральная ул.",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/mini_gostinitsa_selina/20028891827/",
+    "yandex_maps_oid": "20028891827",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Мини-гостиница Селина в центре Ейска на Центральной улице.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "vap",
+    "name": "Вап",
+    "address": "Ейск, ул. Кропоткина, 159",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/vap/31334387330/",
+    "yandex_maps_oid": "31334387330",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Мини-отель Вап в Ейске на ул. Кропоткина.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "morskaya-250",
+    "name": "Гостевой дом Морская 250",
+    "address": "Ейск, Морская ул., 250",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/guest_house_morskaya_250/62008980280/",
+    "yandex_maps_oid": "62008980280",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом на Морской улице в Ейске, близко к пляжу.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "alexandriya",
+    "name": "Александрия",
+    "address": "Ейск, ул. Калинина, 274",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/alexandriya/1346432105/",
+    "yandex_maps_oid": "1346432105",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Мини-отель Александрия в Ейске на ул. Калинина.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "liliya",
+    "name": "Лилия",
+    "address": "ул. Шмидта, 42, Ейск",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/liliya/1141103254/",
+    "yandex_maps_oid": "1141103254",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Лилия в Ейске на ул. Шмидта.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "moreon",
+    "name": "Мореон",
+    "address": "Ейск, ул. Калинина, 86/3",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/32307023360/",
+    "yandex_maps_oid": "32307023360",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Мореон в Ейске на ул. Калинина.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "eysk-vip-plaza",
+    "name": "Ейск VIP Плаза",
+    "address": "Ейск, ул. Шмидта, 28",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/eysk_vip_plaza/233159879918/",
+    "yandex_maps_oid": "233159879918",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Ейск VIP Плаза в центре Ейска на ул. Шмидта.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "bristol",
+    "name": "Бристоль",
+    "address": "Ейск, ул. Мира, 120",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/bristol/1309664139/",
+    "yandex_maps_oid": "1309664139",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Бристоль в Ейске на ул. Мира.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "gavan",
+    "name": "Гавань",
+    "address": "Ейск, Лиманская ул., 1Д",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/gavan/1066262701/",
+    "yandex_maps_oid": "1066262701",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Гавань в Ейске на Лиманской улице.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "khristina",
+    "name": "Христина",
+    "address": "Ейск, ул. Калинина, 188",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/khristina/91275519979/",
+    "yandex_maps_oid": "91275519979",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Христина в Ейске на ул. Калинина.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "marina",
+    "name": "Гостевой дом Марина",
+    "address": "Ейск, Красная ул.",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/guest_house_marina/32491152050/",
+    "yandex_maps_oid": "32491152050",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Марина в Ейске на Красной улице.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  },
+  {
+    "id": "galina",
+    "name": "Галина",
+    "address": "Ейск, Морская ул., 119",
+    "phone": null,
+    "yandex_maps_link": "https://yandex.com/maps/org/galina/50800056055/",
+    "yandex_maps_oid": "50800056055",
+    "rating": null,
+    "review_count": null,
+    "price_range": "Цены уточняйте по телефону",
+    "amenities": ["Wi-Fi", "Парковка", "Кондиционер"],
+    "description": "Гостевой дом Галина в Ейске на Морской улице, близко к пляжу.",
+    "photos": {
+      "hero": ["hero-1.jpg", "hero-2.jpg", "hero-3.jpg"],
+      "gallery": ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg", "gallery-8.jpg", "gallery-9.jpg", "gallery-10.jpg"]
+    }
+  }
+]
